@@ -17,7 +17,7 @@ jobs:
         sudo cat >./01.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
         $(youtube-dl -g https://www.youtube.com/watch?v=jp0xRMIosSw)
         EOL
     - name: Get 02.m3u8
@@ -26,7 +26,7 @@ jobs:
         sudo cat >./02.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
         $(youtube-dl -g https://www.youtube.com/c/yoyotvebc/live)
         EOL
     - name: Get 03.m3u8
@@ -35,7 +35,7 @@ jobs:
         sudo cat >./03.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
         $(youtube-dl -g https://www.youtube.com/watch?v=UyyXhyYrC3g)
         EOL
     - name: Get 04.m3u8
@@ -44,7 +44,7 @@ jobs:
         sudo cat >./04.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
         $(youtube-dl -g https://www.youtube.com/watch?v=gEUUu_asZrY)
         EOL
     - name: Get 05.m3u8
@@ -53,7 +53,7 @@ jobs:
         sudo cat >./05.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
         $(youtube-dl -g https://www.youtube.com/watch?v=75FIn7nO-EY)
         EOL
     - name: Get 06.m3u8
@@ -62,7 +62,7 @@ jobs:
         sudo cat >./06.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
         $(youtube-dl -g https://www.youtube.com/watch?v=zKfOUCq3rW8)
         EOL
     - name: Get 07.m3u8
@@ -71,7 +71,7 @@ jobs:
         sudo cat >./07.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
         $(youtube-dl -g https://www.youtube.com/watch?v=n6W3A0CA4WI)
         EOL
     - name: Get 08.m3u8
@@ -80,7 +80,7 @@ jobs:
         sudo cat >./08.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
         $(youtube-dl -g https://www.youtube.com/watch?v=CHDb5D0DCkw)
         EOL
     - name: Get 09.m3u8
@@ -89,7 +89,7 @@ jobs:
         sudo cat >./09.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
         $(youtube-dl -g https://www.youtube.com/watch?v=I1TUDXaEnbE)
         EOL
     - name: Get 10.m3u8
@@ -98,7 +98,7 @@ jobs:
         sudo cat >./10.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1280000
         $(youtube-dl -g https://www.youtube.com/watch?v=tMs4xVO_OAw)
         EOL
     - name: Get 11.m3u8
@@ -107,7 +107,7 @@ jobs:
         sudo cat >./11.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
         $(youtube-dl -g https://www.youtube.com/watch?v=wldWQnyVwpk)
         EOL
     - name: Get 12.m3u8
@@ -116,7 +116,7 @@ jobs:
         sudo cat >./12.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
         $(youtube-dl -g https://www.youtube.com/watch?v=X-vcxpwIY3Q)
         EOL
     - name: Get 13.m3u8
@@ -125,7 +125,7 @@ jobs:
         sudo cat >./13.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
         $(youtube-dl -g https://www.youtube.com/watch?v=qX1W7lZQp5A)
         EOL
     - name: Get 14.m3u8
@@ -134,7 +134,7 @@ jobs:
         sudo cat >./14.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
         $(youtube-dl -g https://www.youtube.com/watch?v=i7GVhM60Hi4)
         EOL
     - name: Get 15.m3u8
@@ -143,7 +143,7 @@ jobs:
         sudo cat >./15.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
         $(youtube-dl -g https://www.youtube.com/watch?v=Lde1rqHuUpM)
         EOL
     - name: Get 16.m3u8
@@ -152,7 +152,7 @@ jobs:
         sudo cat >./16.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
         $(youtube-dl -g https://www.youtube.com/watch?v=4EwvSc9L_YU)
         EOL
     - name: Get 17.m3u8
@@ -161,7 +161,7 @@ jobs:
         sudo cat >./17.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
         $(youtube-dl -g https://www.youtube.com/watch?v=NieKeLd8GLw)
         EOL
     - name: Get 18.m3u8
@@ -170,7 +170,7 @@ jobs:
         sudo cat >./18.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
         $(youtube-dl -g https://www.youtube.com/watch?v=Gv0f-iOviWQ)
         EOL
     - name: Get 19.m3u8
@@ -179,7 +179,7 @@ jobs:
         sudo cat >./19.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
         $(youtube-dl -g https://www.youtube.com/watch?v=pPUbVzTN7Mg)
         EOL
     - name: Get 20.m3u8
@@ -188,7 +188,7 @@ jobs:
         sudo cat >./20.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
         $(youtube-dl -g https://www.youtube.com/watch?v=W0bO0hBpmoM)
         EOL
     - name: Get 21.m3u8
@@ -197,7 +197,7 @@ jobs:
         sudo cat >./21.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
         $(youtube-dl -g https://www.youtube.com/watch?v=fkgDWd38jqQ)
         EOL
     - name: Get 22.m3u8
@@ -206,7 +206,7 @@ jobs:
         sudo cat >./22.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
         $(youtube-dl -g https://www.youtube.com/watch?v=jTS3A4D4x6Q)
         EOL
     - name: Get 23.m3u8
@@ -215,7 +215,7 @@ jobs:
         sudo cat >./23.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
         $(youtube-dl -g https://www.youtube.com/watch?v=ABn_ccXn_jc)
         EOL
     - name: Get 24.m3u8
@@ -224,7 +224,7 @@ jobs:
         sudo cat >./24.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
         $(youtube-dl -g https://www.youtube.com/watch?v=lu_BJKxqGnk)
         EOL
     - name: Get 25.m3u8
@@ -233,7 +233,7 @@ jobs:
         sudo cat >./25.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
         $(youtube-dl -g https://www.youtube.com/watch?v=xL0ch83RAK8)
         EOL
     - name: Get 26.m3u8
@@ -242,7 +242,7 @@ jobs:
         sudo cat >./26.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
         $(youtube-dl -g https://www.youtube.com/watch?v=XGEmg3vhrzU)
         EOL
     - name: Get 27.m3u8
@@ -251,7 +251,7 @@ jobs:
         sudo cat >./27.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
         $(youtube-dl -g https://www.youtube.com/watch?v=5n0y6b0Q25o)
         EOL
     - name: Get 28.m3u8
@@ -260,7 +260,7 @@ jobs:
         sudo cat >./28.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
         $(youtube-dl -g https://www.youtube.com/watch?v=FoBfXvlOR6I)
         EOL
     - name: Get 29.m3u8
@@ -269,7 +269,7 @@ jobs:
         sudo cat >./29.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
         $(youtube-dl -g https://www.youtube.com/watch?v=CKjSm5ZeehE)
         EOL
     - name: Get 30.m3u8
@@ -278,7 +278,7 @@ jobs:
         sudo cat >./30.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
         $(youtube-dl -g https://www.youtube.com/watch?v=R2iMq5LKXco)
         EOL
     - name: Get 31.m3u8
@@ -287,7 +287,7 @@ jobs:
         sudo cat >./31.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
         $(youtube-dl -g https://www.youtube.com/watch?v=DHsJ10jOFAM)
         EOL
     - name: Get 32.m3u8
@@ -296,7 +296,7 @@ jobs:
         sudo cat >./32.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
         $(youtube-dl -g https://www.youtube.com/watch?v=2mCSYvcfhtc)
         EOL
     - name: Get 33.m3u8
@@ -305,7 +305,7 @@ jobs:
         sudo cat >./33.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
         $(youtube-dl -g https://www.youtube.com/watch?v=MIqUplvSRWA)
         EOL
     - name: Get 34.m3u8
@@ -314,7 +314,7 @@ jobs:
         sudo cat >./34.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
         $(youtube-dl -g https://www.youtube.com/watch?v=DTNkEm6jaqQ)
         EOL
     - name: Get 35.m3u8
@@ -323,7 +323,7 @@ jobs:
         sudo cat >./35.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
         $(youtube-dl -g https://www.youtube.com/watch?v=68wEJkiC0y8)
         EOL
     - name: Get 36.m3u8
@@ -332,7 +332,7 @@ jobs:
         sudo cat >./36.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
         $(youtube-dl -g https://www.youtube.com/watch?v=jRsyBLhot6E)
         EOL
     - name: Get 37.m3u8
@@ -341,7 +341,7 @@ jobs:
         sudo cat >./37.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
         $(youtube-dl -g https://www.youtube.com/watch?v=RAP4h3q6_Sg)
         EOL
     - name: Get 38.m3u8
@@ -350,7 +350,7 @@ jobs:
         sudo cat >./38.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
         $(youtube-dl -g https://www.youtube.com/watch?v=F4aby5WN1Rw)
         EOL
     - name: Get 39.m3u8
@@ -359,7 +359,7 @@ jobs:
         sudo cat >./39.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
         $(youtube-dl -g https://www.youtube.com/watch?v=Ptg8ErmPjxM)
         EOL
     - name: Get 40.m3u8
@@ -368,7 +368,7 @@ jobs:
         sudo cat >./40.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
         $(youtube-dl -g https://www.youtube.com/watch?v=wrYF0HX7Kzc)
         EOL
     - name: Get 41.m3u8
@@ -377,17 +377,8 @@ jobs:
         sudo cat >./41.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
         $(youtube-dl -g https://www.youtube.com/watch?v=GOiCIPAtdHA)
-        EOL
-    - name: Get 42.m3u8
-      run: |
-        touch ./42.m3u8
-        sudo cat >./42.m3u8 <<EOL
-        #EXTM3U
-        #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5400000
-        $(youtube-dl -g https://www.youtube.com/watch?v=JAzRXylm3M0)
         EOL
     - name : Upload artifact
       uses: actions/upload-artifact@master
