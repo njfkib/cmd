@@ -10,7 +10,7 @@
 
 [06三聖電視](https://www.youtube.com/watch?v=zKfOUCq3rW8)
 
-🚫[07誠心電視](https://www.youtube.com/watch?v=n6W3A0CA4WI)
+[07誠心電視](https://www.youtube.com/watch?v=cPaTcemo47c)
 
 [08正德電視](https://www.youtube.com/watch?v=CHDb5D0DCkw)
 
