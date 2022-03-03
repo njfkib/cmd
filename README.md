@@ -10,7 +10,7 @@
 
 [06三聖電視](https://www.youtube.com/watch?v=zKfOUCq3rW8)
 
-[07誠心電視](https://www.youtube.com/watch?v=n6W3A0CA4WI)
+🚫[07誠心電視](https://www.youtube.com/watch?v=n6W3A0CA4WI)
 
 [08正德電視](https://www.youtube.com/watch?v=CHDb5D0DCkw)
 
@@ -30,7 +30,7 @@
 
 [16華藏衛視](https://www.youtube.com/watch?v=4EwvSc9L_YU)
 
-[17十方法界](https://www.youtube.com/watch?v=NieKeLd8GLw)
+🚫[17十方法界](https://www.youtube.com/watch?v=NieKeLd8GLw)
 
 [18叫您第一名](https://www.youtube.com/watch?v=Gv0f-iOviWQ)
 
@@ -58,7 +58,7 @@
 
 [30東森新聞](https://www.youtube.com/watch?v=R2iMq5LKXco)
 
-[31寰宇新聞](https://www.youtube.com/watch?v=DHsJ10jOFAM)
+[31寰宇新聞](https://www.youtube.com/watch?v=-s6BflnoCrQ)
 
 [32TVBS新聞](https://www.youtube.com/watch?v=2mCSYvcfhtc)
 
