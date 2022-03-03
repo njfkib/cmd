@@ -48,7 +48,7 @@
 
 [25台視新聞](https://www.youtube.com/watch?v=xL0ch83RAK8)
 
-[26民視新聞](https://www.youtube.com/watch?v=XGEmg3vhrzU)
+[26民視新聞](https://www.youtube.com/watch?v=yguQ1SzPM5U)
 
 [27鏡新聞](https://www.youtube.com/watch?v=5n0y6b0Q25o)
 
