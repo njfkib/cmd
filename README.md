@@ -8,7 +8,7 @@
 
 [05WB Kids](https://www.youtube.com/watch?v=75FIn7nO-EY)
 
-[06三聖電視](https://www.youtube.com/watch?v=zKfOUCq3rW8)
+🚫[06三聖電視](https://www.youtube.com/watch?v=zKfOUCq3rW8)
 
 [07誠心電視](https://www.youtube.com/watch?v=cPaTcemo47c)
 
@@ -20,7 +20,7 @@
 
 [11信大電視](https://www.youtube.com/watch?v=wldWQnyVwpk)
 
-[12天美麗電視](https://www.youtube.com/watch?v=X-vcxpwIY3Q)
+[12天美麗電視](https://www.youtube.com/watch?v=lOnIaaIKdQM)
 
 [13運通財經](https://www.youtube.com/watch?v=qX1W7lZQp5A)
 
@@ -30,7 +30,7 @@
 
 [16華藏衛視](https://www.youtube.com/watch?v=4EwvSc9L_YU)
 
-🚫[17十方法界](https://www.youtube.com/watch?v=NieKeLd8GLw)
+[17十方法界](https://www.youtube.com/watch?v=NieKeLd8GLw)
 
 [18叫您第一名](https://www.youtube.com/watch?v=Gv0f-iOviWQ)
 
