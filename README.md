@@ -30,7 +30,7 @@
 
 [16華藏衛視](https://www.youtube.com/watch?v=4EwvSc9L_YU)
 
-[17十方法界](https://www.youtube.com/watch?v=NieKeLd8GLw)
+[17十方法界](https://www.youtube.com/watch?v=VCRlFfDAJvw)
 
 [18叫您第一名](https://www.youtube.com/watch?v=Gv0f-iOviWQ)
 
