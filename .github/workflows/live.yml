@@ -389,33 +389,6 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
         $(youtube-dl -g https://www.youtube.com/channel/UCL0_NxCvkcXwZHpvqgMZY-A/live)
         EOL
-    - name: Get 43.m3u8
-      run: |
-        touch ./43.m3u8
-        sudo cat >./43.m3u8 <<EOL
-        #EXTM3U
-        #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
-        $(youtube-dl -g https://www.youtube.com/channel/UCA_hK5eRICBdSOLlXKESvEg/live)
-        EOL
-    - name: Get 44.m3u8
-      run: |
-        touch ./44.m3u8
-        sudo cat >./44.m3u8 <<EOL
-        #EXTM3U
-        #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
-        $(youtube-dl -g https://www.youtube.com/watch?v=uDqQo8a7Xmk)
-        EOL
-    - name: Get 45.m3u8
-      run: |
-        touch ./45.m3u8
-        sudo cat >./45.m3u8 <<EOL
-        #EXTM3U
-        #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
-        $(youtube-dl -g https://www.youtube.com/channel/UCPde4guD9yFBRzkxk2PatoA/live)
-        EOL
     - name : Upload artifact
       uses: actions/upload-artifact@master
       with:
