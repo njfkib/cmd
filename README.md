@@ -62,7 +62,7 @@
 
 [32.TVBS新聞](https://www.youtube.com/channel/UC5nwNW4KdC0SzrhF9BXEYOQ/live)
 
-[33.大愛](https://www.youtube.com/channel/UClrEYreVkBee7ZQYei_6Jqg/live)
+[33.大愛1](https://www.youtube.com/watch?v=oV_i3Hsl_zg)
 
 [34.大愛2](https://www.youtube.com/watch?v=DTNkEm6jaqQ)
 
