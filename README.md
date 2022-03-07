@@ -1,4 +1,4 @@
-[01.天才衝衝衝](https://www.youtube.com/channel/UCdpxNQgqL3276yjrK03gMXA/live)
+[01.Disney Junior](https://www.youtube.com/watch?v=1R35uh5J4Yg)
 
 [02.yoyoTV](https://www.youtube.com/c/yoyotvebc/live)
 
@@ -81,3 +81,5 @@
 [41.8FM](https://www.youtube.com/channel/UCXKqVoc7khb8cg3ugfrih4g/live)
 
 [42.TVBS56](https://www.youtube.com/channel/UCL0_NxCvkcXwZHpvqgMZY-A/live)
+
+[42.天才衝衝衝](https://www.youtube.com/https://www.youtube.com/watch?v=tD0JJalN6Sc)
