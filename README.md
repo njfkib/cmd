@@ -62,7 +62,7 @@
 
 [32.TVBS新聞](https://www.youtube.com/watch?v=2mCSYvcfhtc)
 
-[33.大愛1](https://www.youtube.com/watch?v=oV_i3Hsl_zg)
+[33.大愛1](https://www.youtube.com/watch?v=MIqUplvSRWA)
 
 [34.大愛2](https://www.youtube.com/watch?v=DTNkEm6jaqQ)
 
