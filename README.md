@@ -52,7 +52,7 @@
 
 [27.鏡新聞](https://www.youtube.com/channel/UC4LjkybVKXCDlneVXlKAbmw/live)
 
-[28.三立Live新聞](https://www.youtube.com/channel/UC2TuODJhC03pLgd6MpWP0iw/live)
+[28.三立Live新聞](https://www.youtube.com/watch?v=FoBfXvlOR6I)
 
 [29.三立iNews新聞](https://www.youtube.com/channel/UCoNYj9OFHZn3ACmmeRCPwbA/live)
 
