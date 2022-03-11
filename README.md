@@ -22,7 +22,7 @@
 
 [12.天美麗電視🔝](https://www.youtube.com/channel/UCwtzd2ThcPhtp5LxjL2Stvw/live)
 
-[13.運通財經](https://www.youtube.com/channel/UCiqm4JC8lbGqgePjHd3Mahw/live)
+[13.運通財經🔝](https://www.youtube.com/channel/UCiqm4JC8lbGqgePjHd3Mahw/live)
 
 [14.全球財經](https://www.youtube.com/channel/UCj82QbSA3Dz9ez3W8q-_5bw/live)
 
