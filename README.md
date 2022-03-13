@@ -2,7 +2,7 @@
 
 [02.yoyoTV](https://www.youtube.com/c/yoyotvebc/live)
 
-[03.Moonbug Kids](https://www.youtube.com/channel/UCu0tjrzm4_n-9hkYSvlsC8A/live)
+[03.Moonbug Kids🔝](https://www.youtube.com/channel/UCu0tjrzm4_n-9hkYSvlsC8A/live)
 
 [04.DC Kids](https://www.youtube.com/channel/UCyu8StPfZWapR6rfW_JgqcA/live)
 
