@@ -2,11 +2,11 @@
 
 [02.yoyoTV](https://www.youtube.com/c/yoyotvebc/live)
 
-[03.Moonbug Kids🔝](https://www.youtube.com/channel/UCu0tjrzm4_n-9hkYSvlsC8A/live)
+[03.小巴士Tayo🔝](https://www.youtube.com/channel/UC9CsZoTaHZqZjnNZv7v3T1g/live)
 
-[04.DC Kids🔝](https://www.youtube.com/channel/UCyu8StPfZWapR6rfW_JgqcA/live)
+[04.小豬佩奇🔝](https://www.youtube.com/channel/UCRi0sw4PDw-C2C7fS9hrx5Q/live)
 
-[05.WB Kids🔝](https://www.youtube.com/channel/UC9trsD1jCTXXtN3xIOIU8gg/live)
+[05.湯姆貓🔝](https://www.youtube.com/channel/UCm3hAp1m1xlAz0ve_EKAo4g/live)
 
 [06.三聖電視🔝oSK8tm7nicw](https://www.youtube.com/channel/UCGQ5-eJkLkuhewXUqZiqx_w/live)
 
