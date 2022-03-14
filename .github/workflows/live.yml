@@ -29,33 +29,6 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
         $(youtube-dl -g https://www.youtube.com/c/yoyotvebc/live)
         EOL
-    - name: Get 03.m3u8
-      run: |
-        touch ./03.m3u8
-        sudo cat >./03.m3u8 <<EOL
-        #EXTM3U
-        #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
-        $(youtube-dl -g https://www.youtube.com/watch?v=MQq6lzzf36U)
-        EOL
-    - name: Get 04.m3u8
-      run: |
-        touch ./04.m3u8
-        sudo cat >./04.m3u8 <<EOL
-        #EXTM3U
-        #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
-        $(youtube-dl -g https://www.youtube.com/channel/UCyu8StPfZWapR6rfW_JgqcA/live)
-        EOL
-    - name: Get 05.m3u8
-      run: |
-        touch ./05.m3u8
-        sudo cat >./05.m3u8 <<EOL
-        #EXTM3U
-        #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
-        $(youtube-dl -g https://www.youtube.com/channel/UC9trsD1jCTXXtN3xIOIU8gg/live)
-        EOL
     - name: Get 06.m3u8
       run: |
         touch ./06.m3u8
@@ -126,7 +99,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
-        $(youtube-dl -g https://www.youtube.com/watch?v=B5KDQW_Up-Y)
+        $(youtube-dl -g https://www.youtube.com/watch?v=vOUo22ZNQng)
         EOL
     - name: Get 14.m3u8
       run: |
@@ -135,7 +108,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
-        $(youtube-dl -g https://www.youtube.com/watch?v=2KjA_WwRh4U)
+        $(youtube-dl -g https://www.youtube.com/watch?v=T57S-ZXa-2s)
         EOL
     - name: Get 15.m3u8
       run: |
@@ -162,7 +135,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
-        $(youtube-dl -g https://www.youtube.com/watch?v=9T2QoQ0pq8U)
+        $(youtube-dl -g https://www.youtube.com/watch?v=nGmgwAbiL7o)
         EOL
     - name: Get 18.m3u8
       run: |
