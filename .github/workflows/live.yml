@@ -29,6 +29,34 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
         $(youtube-dl -g https://www.youtube.com/c/yoyotvebc/live)
         EOL
+    - name: Get 03.m3u8
+      run: |
+        touch ./03.m3u8
+        sudo cat >./03.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
+        $(youtube-dl -g https://www.youtube.com/channel/UCm3hAp1m1xlAz0ve_EKAo4g/live)
+        EOL
+    - name: Get 04.m3u8
+      run: |
+        touch ./04.m3u8
+        sudo cat >./04.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
+        $(youtube-dl -g https://www.youtube.com/channel/UCRi0sw4PDw-C2C7fS9hrx5Q/live)
+        EOL
+    - name: Get 05.m3u8
+      run: |
+        touch ./05.m3u8
+        sudo cat >./05.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
+        $(youtube-dl -g https://www.youtube.com/channel/UCm3hAp1m1xlAz0ve_EKAo4g/live)
+        EOL
+
     - name: Get 06.m3u8
       run: |
         touch ./06.m3u8
