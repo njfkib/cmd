@@ -4,11 +4,11 @@
 
 [03.Moonbug Kids🔝](https://www.youtube.com/channel/UCu0tjrzm4_n-9hkYSvlsC8A/live)
 
-[04.DC Kids](https://www.youtube.com/channel/UCyu8StPfZWapR6rfW_JgqcA/live)
+[04.DC Kids🔝](https://www.youtube.com/channel/UCyu8StPfZWapR6rfW_JgqcA/live)
 
-[05.WB Kids](https://www.youtube.com/channel/UC9trsD1jCTXXtN3xIOIU8gg/live)
+[05.WB Kids🔝](https://www.youtube.com/channel/UC9trsD1jCTXXtN3xIOIU8gg/live)
 
-[06.三聖電視](https://www.youtube.com/channel/UCGQ5-eJkLkuhewXUqZiqx_w/live)
+[06.三聖電視🔝oSK8tm7nicw](https://www.youtube.com/channel/UCGQ5-eJkLkuhewXUqZiqx_w/live)
 
 [07.誠心電視](https://www.youtube.com/channel/UCRvNvZZH79MpSRubnW9pdcw/live)
 
