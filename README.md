@@ -30,7 +30,7 @@
 
 [16.華藏衛視](https://www.youtube.com/channel/UCgFr9QSua--Cxx658iJqIcQ/live)
 
-[17.十方法界🔝9T2QoQ0pq8U](https://www.youtube.com/channel/UCyi1TDk38dg5YrmCORsq9Gg/live)
+[17.十方法界🔝nGmgwAbiL7o](https://www.youtube.com/channel/UCyi1TDk38dg5YrmCORsq9Gg/live)
 
 [18.叫您第一名](https://www.youtube.com/channel/UCEhAvZprnHwxry7pJocCtQA/live)
 
