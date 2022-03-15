@@ -20,7 +20,7 @@
 
 [11.信大電視](https://www.youtube.com/channel/UCZNrgK7RjNPbVsqYpM9utJw/live)
 
-[12.天美麗電視🔝YTGuSyjuvT0](https://www.youtube.com/channel/UCwtzd2ThcPhtp5LxjL2Stvw/live)
+[12.天美麗電視🔝1u1mRYPoPY8](https://www.youtube.com/channel/UCwtzd2ThcPhtp5LxjL2Stvw/live)
 
 [13.運通財經🔝vOUo22ZNQng](https://www.youtube.com/channel/UCiqm4JC8lbGqgePjHd3Mahw/live)
 
@@ -82,4 +82,4 @@
 
 [42.TVBS56](https://www.youtube.com/channel/UCL0_NxCvkcXwZHpvqgMZY-A/live)
 
-[42.天才衝衝衝🔝fdzSJzp5XKg](https://www.youtube.com/watch?v=tD0JJalN6Sc)
+[42.天才衝衝衝🔝fdzSJzp5XKg](https://www.youtube.com/channel/UCdpxNQgqL3276yjrK03gMXA/live)
