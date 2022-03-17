@@ -20,7 +20,7 @@
 
 [11.信大電視](https://www.youtube.com/channel/UCZNrgK7RjNPbVsqYpM9utJw/live)
 
-[12.天美麗電視🔝1u1mRYPoPY8](https://www.youtube.com/channel/UCwtzd2ThcPhtp5LxjL2Stvw/live)
+[12.天美麗電視🔝](https://www.youtube.com/channel/UCwtzd2ThcPhtp5LxjL2Stvw/live)
 
 [13.運通財經🔝vOUo22ZNQng](https://www.youtube.com/channel/UCiqm4JC8lbGqgePjHd3Mahw/live)
 
