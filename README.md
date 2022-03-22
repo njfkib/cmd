@@ -24,7 +24,7 @@
 
 [13.運通財經🔝vOUo22ZNQng](https://www.youtube.com/channel/UCiqm4JC8lbGqgePjHd3Mahw/live)
 
-[14.全球財經🔝gbBRzx-eEXs](https://www.youtube.com/channel/UCj82QbSA3Dz9ez3W8q-_5bw/live)
+[14.全球財經🔝7VJXFdtxI6E](https://www.youtube.com/channel/UCj82QbSA3Dz9ez3W8q-_5bw/live)
 
 [15.海豚綜合](https://www.youtube.com/channel/UCUz3LiE7QuRGDGZ2DYciIuA/live)
 
