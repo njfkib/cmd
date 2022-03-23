@@ -82,4 +82,4 @@
 
 [42.TVBS56](https://www.youtube.com/channel/UCL0_NxCvkcXwZHpvqgMZY-A/live)
 
-[42.天才衝衝衝🔝fdzSJzp5XKg](https://www.youtube.com/channel/UCdpxNQgqL3276yjrK03gMXA/live)
+[42.天才衝衝衝🔝vCUcdqZp_0c](https://www.youtube.com/channel/UCdpxNQgqL3276yjrK03gMXA/live)
