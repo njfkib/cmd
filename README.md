@@ -1,6 +1,6 @@
 [01.Disney Junior](https://www.youtube.com/watch?v=1R35uh5J4Yg)
 
-[02.yoyoTV🔝](https://www.youtube.com/c/yoyotvebc/live)
+[02.Dave and Ava🔝](https://www.youtube.com/channel/UC6zhI71atP7YLoZyIyCIGNw/live)
 
 [03.小巴士Tayo🔝](https://www.youtube.com/channel/UC9CsZoTaHZqZjnNZv7v3T1g/live)
 
