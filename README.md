@@ -8,7 +8,7 @@
 
 [05.湯姆貓🔝](https://www.youtube.com/channel/UCm3hAp1m1xlAz0ve_EKAo4g/live)
 
-[06.三聖電視🔝O9nIeIReMko](https://www.youtube.com/channel/UCGQ5-eJkLkuhewXUqZiqx_w/live)
+[06.三聖電視🔝JZfxKpmdK2c](https://www.youtube.com/channel/UCGQ5-eJkLkuhewXUqZiqx_w/live)
 
 [07.誠心電視](https://www.youtube.com/channel/UCRvNvZZH79MpSRubnW9pdcw/live)
 
