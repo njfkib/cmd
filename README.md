@@ -60,7 +60,7 @@
 
 [31.寰宇新聞](https://www.youtube.com/channel/UCp2f7tGJGN6R9Muxipem8Nw/live)
 
-[32.TVBS新聞](https://www.youtube.com/watch?v=2mCSYvcfhtc)
+[32.TVBS Breaking](https://www.youtube.com/watch?v=2mCSYvcfhtc)
 
 [33.大愛1](https://www.youtube.com/watch?v=MIqUplvSRWA)
 
@@ -80,6 +80,6 @@
 
 [41.8FM](https://www.youtube.com/channel/UCXKqVoc7khb8cg3ugfrih4g/live)
 
-[42.TVBS56](https://www.youtube.com/channel/UCL0_NxCvkcXwZHpvqgMZY-A/live)
+[42.TVBS選新聞](https://www.youtube.com/channel/UCL0_NxCvkcXwZHpvqgMZY-A/live)
 
-[42.天才衝衝衝🔝wT9d5R0JNsc](https://www.youtube.com/channel/UCdpxNQgqL3276yjrK03gMXA/live)
+[43.天才衝衝衝🔝wT9d5R0JNsc](https://www.youtube.com/channel/UCdpxNQgqL3276yjrK03gMXA/live)
