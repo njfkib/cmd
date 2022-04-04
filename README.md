@@ -82,4 +82,4 @@
 
 [42.TVBS選新聞](https://www.youtube.com/channel/UCL0_NxCvkcXwZHpvqgMZY-A/live)
 
-[43.天才衝衝衝🔝wT9d5R0JNsc](https://www.youtube.com/channel/UCdpxNQgqL3276yjrK03gMXA/live)
+[43.天才衝衝衝🔝LVCuk5dYY7E](https://www.youtube.com/channel/UCdpxNQgqL3276yjrK03gMXA/live)
