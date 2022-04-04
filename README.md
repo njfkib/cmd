@@ -83,3 +83,7 @@
 [42.TVBS選新聞](https://www.youtube.com/channel/UCL0_NxCvkcXwZHpvqgMZY-A/live)
 
 [43.天才衝衝衝🔝LVCuk5dYY7E](https://www.youtube.com/channel/UCdpxNQgqL3276yjrK03gMXA/live)
+
+[44.中視新聞](https://www.youtube.com/channel/UCmH4q-YjeazayYCVHHkGAMA/live)
+
+[45.幸福居家]
