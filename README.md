@@ -60,7 +60,7 @@
 
 [31.寰宇新聞](https://www.youtube.com/channel/UCp2f7tGJGN6R9Muxipem8Nw/live)
 
-[32.TVBS Breaking](https://www.youtube.com/watch?v=2mCSYvcfhtc)
+[32.TVBS YT](https://www.youtube.com/channel/UC5nwNW4KdC0SzrhF9BXEYOQ/live)
 
 [33.大愛1](https://www.youtube.com/watch?v=MIqUplvSRWA)
 
