@@ -80,7 +80,7 @@
 
 [41.8FM](https://www.youtube.com/channel/UCXKqVoc7khb8cg3ugfrih4g/live)
 
-[42.TVBS選新聞](https://www.youtube.com/channel/UCL0_NxCvkcXwZHpvqgMZY-A/live)
+[42.TVBS國際新聞](https://www.youtube.com/channel/UCEkLHyknJ6DJTpwRSJna9QQ/live)
 
 [43.天才衝衝衝🔝LVCuk5dYY7E](https://www.youtube.com/channel/UCdpxNQgqL3276yjrK03gMXA/live)
 
