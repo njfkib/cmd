@@ -56,7 +56,7 @@
 
 [29.三立iNews新聞](https://www.youtube.com/channel/UCoNYj9OFHZn3ACmmeRCPwbA/live)
 
-[30.東森新聞](https://www.youtube.com/watch?v=lg1GeR-0uTc)
+[30.東森新聞](https://www.youtube.com/watch?v=HIbV2WRek14)
 
 [31.寰宇新聞](https://www.youtube.com/channel/UCp2f7tGJGN6R9Muxipem8Nw/live)
 
