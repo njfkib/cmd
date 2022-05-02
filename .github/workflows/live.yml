@@ -424,7 +424,8 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
-        $(youtube-dl -g https://www.ixigua.com/iframe/7092096653213041160)
+        $(youtube-dl -g https://www.ixigua.com/iframe/7092096653213041160?autoplay=0)
+        EOL
     - name : Upload artifact
       uses: actions/upload-artifact@master
       with:
