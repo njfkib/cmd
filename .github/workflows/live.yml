@@ -424,7 +424,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
-        $(youtube-dl -g https://m.ixigua.com/video/7092047858664210974)
+        $(youtube-dl -g https://m.4gtv.tv/channel_sub.html?channelSet_id=1&asset_id=4gtv-4gtv075&channel_id=268)
         EOL
     - name : Upload artifact
       uses: actions/upload-artifact@master
