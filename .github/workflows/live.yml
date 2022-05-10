@@ -388,7 +388,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
-        $(youtube-dl -g https://www.youtube.com/channel/UCXgIO9jJVsX5_2ideiSkfvA/live)
+        $(youtube-dl --proxy http://127.0.0.1:8118 -g https://www.youtube.com/channel/UCXgIO9jJVsX5_2ideiSkfvA/live)
         EOL
     - name: Get 43.m3u8
       run: |
