@@ -82,7 +82,7 @@
 
 [42.TVBS國際新聞](https://www.youtube.com/channel/UCEkLHyknJ6DJTpwRSJna9QQ/live)
 
-[43.天才衝衝衝🔝EPqPP8C9-64](https://www.youtube.com/channel/UCdpxNQgqL3276yjrK03gMXA/live)
+[43.天才衝衝衝🔝i6fneBQUZx4](https://www.youtube.com/channel/UCdpxNQgqL3276yjrK03gMXA/live)
 
 [44.中視新聞](https://www.youtube.com/channel/UCmH4q-YjeazayYCVHHkGAMA/live)
 
