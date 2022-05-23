@@ -171,7 +171,7 @@ jobs:
         sudo cat >./18.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=7680000
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=65000,CODECS=”mp4a.40.5″
         $(youtube-dl -g https://www.youtube.com/c/%E9%A7%B1%E8%AA%BF%E5%BD%AC/live)
         EOL
     - name: Get 19.m3u8
