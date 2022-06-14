@@ -22,15 +22,15 @@
 
 [12.天美麗電視🔝](https://www.youtube.com/channel/UCwtzd2ThcPhtp5LxjL2Stvw/live)
 
-[13.運通財經🔝vOUo22ZNQng](https://www.youtube.com/channel/UCiqm4JC8lbGqgePjHd3Mahw/live)
+[13.運通財經🔝](https://www.youtube.com/channel/UCiqm4JC8lbGqgePjHd3Mahw/live)
 
-[14.全球財經🔝7VJXFdtxI6E](https://www.youtube.com/channel/UCj82QbSA3Dz9ez3W8q-_5bw/live)
+[14.全球財經🔝](https://www.youtube.com/channel/UCj82QbSA3Dz9ez3W8q-_5bw/live)
 
 [15.海豚綜合](https://www.youtube.com/channel/UCUz3LiE7QuRGDGZ2DYciIuA/live)
 
 [16.華藏衛視](https://www.youtube.com/channel/UCgFr9QSua--Cxx658iJqIcQ/live)
 
-[17.十方法界🔝dV_FvLLwRiM](https://www.youtube.com/channel/UCyi1TDk38dg5YrmCORsq9Gg/live)
+[17.十方法界🔝](https://www.youtube.com/channel/UCyi1TDk38dg5YrmCORsq9Gg/live)
 
 [18.叫您第一名](https://www.youtube.com/channel/UCEhAvZprnHwxry7pJocCtQA/live)
 
