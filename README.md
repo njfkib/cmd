@@ -8,7 +8,7 @@
 
 [05.湯姆貓🔝](https://www.youtube.com/channel/UCm3hAp1m1xlAz0ve_EKAo4g/live)
 
-[06.三聖電視](https://www.youtube.com/channel/UCGQ5-eJkLkuhewXUqZiqx_w/live)
+[06.三聖電視🚫](https://www.youtube.com/channel/UCGQ5-eJkLkuhewXUqZiqx_w/live)
 
 [07.誠心電視](https://www.youtube.com/channel/UCRvNvZZH79MpSRubnW9pdcw/live)
 
@@ -32,7 +32,7 @@
 
 [17.十方法界🔝](https://www.youtube.com/channel/UCyi1TDk38dg5YrmCORsq9Gg/live)
 
-[18.叫您第一名](https://www.youtube.com/channel/UCEhAvZprnHwxry7pJocCtQA/live)
+[18.叫您第一名🚫](https://www.youtube.com/channel/UCEhAvZprnHwxry7pJocCtQA/live)
 
 [19.桐瑛虎尾](https://www.youtube.com/channel/UCwDxsoF4QrpBSyDLfFQfXXw/live)
 
