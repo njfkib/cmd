@@ -280,7 +280,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1240000
-        $(youtube-dl -g https://wwe.youtube.com/watch?v=WPFwCCzjxDQ)
+        $(youtube-dl -g https://wwe.youtube.com/watch?v=yp3D922PvB4)
         EOL
     - name: Get 31.m3u8
       run: |
