@@ -68,7 +68,7 @@
 
 [35.彰化生活](https://www.youtube.com/channel/UCrVBXIxpYnjTk4ezn9F-fug/live)
 
-[36.國會頻道1](https://www.youtube.com/channel/UCBVkoTHzszNtJsG7fWaHbsg/live)
+[36.國會頻道1](https://www.youtube.com/watch?v=4HysYHJ6GkY)
 
 [37.國會頻道2](https://www.youtube.com/watch?v=RAP4h3q6_Sg)
 
