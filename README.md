@@ -1,4 +1,4 @@
-[01.Disney Junior](https://www.youtube.com/channel/UCNcdbMyA59zE-Vk668bKWOg/live)
+[01.Disney Junior](https://www.youtube.com/watch?v=c5tzU4MGCNs)
 
 [02.Dave and Ava🔝](https://www.youtube.com/channel/UC6zhI71atP7YLoZyIyCIGNw/live)
 
