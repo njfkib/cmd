@@ -1,6 +1,6 @@
 [01.Disney Junior](https://www.youtube.com/watch?v=c5tzU4MGCNs)
 
-[02.Dave and Ava🔝](https://www.youtube.com/channel/UC6zhI71atP7YLoZyIyCIGNw/live)
+[02.Talking Tom Heroes Adventures🔝](https://www.youtube.com/c/TalkingTomHeroes/live)
 
 [03.小巴士Tayo🔝](https://www.youtube.com/channel/UC9CsZoTaHZqZjnNZv7v3T1g/live)
 
